@@ -3,5 +3,5 @@ using namespace std;
 
 int main(){
     cout << "config.cpp" << endl;
-    cout << "version1" << endl;
+    cout << "version2" << endl;
 }
